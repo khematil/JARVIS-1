@@ -1,0 +1,31 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Personal Assistant Bot / For Fun Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "fetch": "^1.1.0",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^2.6.7",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.1",
+    "tslib": "^2.4.0",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.6.0",
+    "zod": "^3.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
