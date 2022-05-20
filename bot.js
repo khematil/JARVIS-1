@@ -1,6 +1,7 @@
 const Discord = require('discord.js')
 const TOKEN = process.env['TOKEN']
 
+
 const client = new Discord.Client({
 
   intents: [
